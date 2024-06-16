@@ -1,0 +1,10 @@
+# key value pairs
+
+first-name : rishi
+last-name : "kumar" 
+age : 23
+
+# age , first-name , last-name -----> key 
+# 23 , rishi , kumar  ------> value
+
+

@@ -1,0 +1,16 @@
+# objects in  yml 
+
+server :
+  port : 8080
+  s-name : " rishi's server"
+
+
+
+person:
+  name: Rishi
+  age:  23
+  address:
+    street: mohali
+    city: chd
+    country: India
+

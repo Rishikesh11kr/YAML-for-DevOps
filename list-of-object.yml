@@ -1,0 +1,32 @@
+# List of oject in yml
+employees:
+- name: Rishi
+  age: 23
+  department: CSE
+  skills: 
+    -python
+    -docker
+    -jenkins
+    -yml
+employees:
+  - name: John Doe
+    age: 30
+    department: Engineering
+    skills:
+      - Python
+      - Docker
+      - Kubernetes
+  - name: Jane Smith
+    age: 25
+    department: Marketing
+    skills:
+      - SEO
+      - Content Creation
+      - Social Media
+  - name: Bob Johnson
+    age: 35
+    department: Sales
+    skills:
+      - Negotiation
+      - CRM
+      - Presentation
