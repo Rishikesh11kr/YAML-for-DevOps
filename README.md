@@ -1,2 +1,2 @@
-# YAML-for-DevOps-
+# YAML-for-DevOps
 Key-Value pairs, Objects, Lists, Multiline strings Docker Compose configurations....
