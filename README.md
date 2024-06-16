@@ -18,13 +18,13 @@ All about key-value in yml [GitHub Pages](https://github.com/Rishikesh11kr/YAML-
 All about object in yml [GitHub Pages](https://github.com/Rishikesh11kr/YAML-for-DevOps/blob/master/list-of-object.yml).
 
 ### List of Objects:
-https://github.com/Rishikesh11kr/YAML-for-DevOps/blob/master/list-of-object.yml
+This link explain about list of objects [Gitub page](https://github.com/Rishikesh11kr/YAML-for-DevOps/blob/master/list-of-object.yml)
 
 
 
 # Connect project with Docker-compose
-Step 1: Connect EC2 instance and run Ubuntu
-Step 2: Clone the Project on Ubuntu
+- Step 1: Connect EC2 instance and run Ubuntu
+- Step 2: Clone the Project on Ubuntu
 ```
 git clone 
 ```
